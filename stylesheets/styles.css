@@ -35,10 +35,9 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#E77500
+  color:#E77500;
   text-decoration:none;
 }
-/*  color:#39c;*/
 
 a:hover {
   color:#069;
